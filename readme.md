@@ -25,7 +25,7 @@ cocos2d/
 ├── res/
 │   └── res/                        # 题目提供的图片资源
 ├── CMakeLists.txt                  # CMake 工程配置
-└── 程序设计说明.md
+└── readme.md
 ```
 
 ## 三、架构设计
